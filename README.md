@@ -1,5 +1,5 @@
 ## Михаил
-![GitHub User's stars](https://img.shields.io/github/stars/tomyumm-ge)&nbsp;&nbsp;&nbsp;![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-gigachat?style=social&logo=npm&label=n8N-nodes-gigachat&cacheSeconds=86400)&nbsp;&nbsp;&nbsp;![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-salutespeech?style=social&logo=npm&label=n8N-nodes-salutespeech&cacheSeconds=86400)
+![GitHub User's stars](https://img.shields.io/github/stars/tomyumm-ge)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-gigachat?style=social&logo=npm&label=n8N-nodes-gigachat&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-gigachat)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-salutespeech?style=social&logo=npm&label=n8N-nodes-salutespeech&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-salutespeech)
 
 - 🔭 Работаю над AI гипотезами
 - 🌱 Изучаю Rust (по приколу)
