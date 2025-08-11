@@ -6,9 +6,8 @@
 - ⚡ Продвигаю сервисы Сбера за 0 рублей
 - 📫 Связь [E-mail](mailto:cognitive.iguana.fbat@mask.me)
 
-#### Что я могу
+#### С чем я работаю
 
-![Static Badge](https://img.shields.io/badge/MeteorJS-red)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/NextJS-white)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/langchain-grey)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/n8n-whitesmoke)&nbsp;&nbsp;
