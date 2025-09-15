@@ -1,12 +1,12 @@
 ## Михаил
 ![GitHub User's stars](https://img.shields.io/github/stars/tomyumm-ge)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-gigachat?style=social&logo=npm&label=n8N-nodes-gigachat&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-gigachat)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-salutespeech?style=social&logo=npm&label=n8N-nodes-salutespeech&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-salutespeech)
 
-- 🔭 Работаю над AI гипотезами
-- 🌱 Изучаю Rust (по приколу)
-- ⚡ Продвигаю сервисы Сбера за 0 рублей
-- 📫 Связь [E-mail](mailto:cognitive.iguana.fbat@mask.me)
+- 🔭 Работаю над AI гипотезами | Working on AI hypotheses
+- 🌱 Изучаю Rust (по приколу) | Learning Rust (for fun)
+- ⚡ Продвигаю сервисы Сбера за 0 рублей | Promoting Sberbank for $0
+- 📫 Связь [E-mail](mailto:cognitive.iguana.fbat@mask.me) | It's just email no one cares
 
-#### С чем я работаю
+#### С чем я работаю | Skill badges
 
 ![Static Badge](https://img.shields.io/badge/NextJS-white)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/langchain-grey)&nbsp;&nbsp;
