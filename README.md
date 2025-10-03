@@ -4,7 +4,7 @@
 - 🔭 Работаю над AI гипотезами | Working on AI hypotheses
 - 🌱 Изучаю Rust (по приколу) | Learning Rust (for fun)
 - ⚡ Продвигаю сервисы Сбера за 0 рублей | Promoting Sberbank for $0
-- 📫 Связь [E-mail](mailto:cognitive.iguana.fbat@mask.me) | It's just email no one cares
+- 📫 Связь [E-mail](mailto:ya@vechnos.ru) | It's just email no one cares
 
 #### С чем я работаю | Skill badges
 
