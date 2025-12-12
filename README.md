@@ -1,4 +1,7 @@
-## Михаил
+## NCR Ranger
+
+<blockquote>Patrooling the Mojave almost makes you wish for a Nuclear Winter</blockquote>
+
 ![GitHub User's stars](https://img.shields.io/github/stars/tomyumm-ge)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-gigachat?style=social&logo=npm&label=n8N-nodes-gigachat&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-gigachat)&nbsp;&nbsp;&nbsp;[![NPM Downloads](https://img.shields.io/npm/dm/n8n-nodes-salutespeech?style=social&logo=npm&label=n8N-nodes-salutespeech&cacheSeconds=86400)](https://www.npmjs.com/package/n8n-nodes-salutespeech)
 
 <!--<img width="200" height="512" alt="изображение" src="https://github.com/user-attachments/assets/e4982426-8e88-4160-a109-af1376e8777e" />-->
